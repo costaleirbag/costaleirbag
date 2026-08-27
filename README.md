@@ -12,13 +12,9 @@ I build research-grade machine learning systems where scientific questions meet 
 
 My path into ML runs through computational physics, time series, computer vision, and a persistent fascination with music. I care about experiments that are auditable, claims that match the evidence, and failures that teach us something.
 
-> **Cat:** Where are you going?  
-> **Alice:** Which way should I go?  
-> **Cat:** That depends on where you are going.  
-> **Alice:** I don't know.  
-> **Cat:** Then it doesn't matter which way you go.
+> “To know ten thousand things, know one well.”
 >
-> — *Lewis Carroll, Alice's Adventures in Wonderland*
+> — *Musashi*
 
 ## Questions I'm working on
 
@@ -47,9 +43,3 @@ My path into ML runs through computational physics, time series, computer vision
 </p>
 
 <sub>Also at home with NumPy, pandas, Transformers, pytest, Git, experiment design, and the occasional music-theory rabbit hole.</sub>
-
----
-
-> “To know ten thousand things, know one well.”
->
-> — *Musashi*
