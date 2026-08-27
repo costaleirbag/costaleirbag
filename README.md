@@ -12,7 +12,13 @@ I build research-grade machine learning systems where scientific questions meet 
 
 My path into ML runs through computational physics, time series, computer vision, and a persistent fascination with music. I care about experiments that are auditable, claims that match the evidence, and failures that teach us something.
 
-> **My default:** make the claim smaller, the experiment sharper, and the evidence harder to fool.
+> **Cat:** Where are you going?  
+> **Alice:** Which way should I go?  
+> **Cat:** That depends on where you are going.  
+> **Alice:** I don't know.  
+> **Cat:** Then it doesn't matter which way you go.
+>
+> — *Lewis Carroll, Alice's Adventures in Wonderland*
 
 ## Questions I'm working on
 
@@ -31,9 +37,16 @@ My path into ML runs through computational physics, time series, computer vision
 
 ## Tools I reach for
 
-`Python` · `PyTorch` · `Transformers` · `scikit-learn` · `NumPy` · `pandas` · `pytest` · `Git` · `Linux` · `LaTeX`
+<p>
+  <img src="https://img.shields.io/badge/Python-0D172A?style=for-the-badge&logo=python&logoColor=5EEAD4" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0D172A?style=for-the-badge&logo=pytorch&logoColor=F97316" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0D172A?style=for-the-badge&logo=huggingface&logoColor=FACC15" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/scikit--learn-0D172A?style=for-the-badge&logo=scikitlearn&logoColor=60A5FA" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Linux-0D172A?style=for-the-badge&logo=linux&logoColor=E2E8F0" alt="Linux" />
+  <img src="https://img.shields.io/badge/LaTeX-0D172A?style=for-the-badge&logo=latex&logoColor=C084FC" alt="LaTeX" />
+</p>
 
-Also at home with experiment design, research tooling, and the occasional music-theory rabbit hole.
+<sub>Also at home with NumPy, pandas, Transformers, pytest, Git, experiment design, and the occasional music-theory rabbit hole.</sub>
 
 ---
 
