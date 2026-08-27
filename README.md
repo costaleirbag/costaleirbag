@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Gabriel Costa — AI research and engineering" width="100%" />
-</p>
+# Gabriel Costa
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gcosta98/"><img src="https://img.shields.io/badge/LinkedIn-0B1830?style=flat-square&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" /></a>
-</p>
+*AI research · scientific machine learning · reproducible systems*
 
-## Hello — I'm Gabriel
+[LinkedIn](https://www.linkedin.com/in/gcosta98/) · [Selected work](#selected-work) · [Research questions](#questions-im-working-on)
+
+---
+
+## Hello
 
 I build research-grade machine learning systems where scientific questions meet reproducible engineering. My current work explores **how internal interventions change model behavior**, **how groups of agents develop specialization**, and **how AI systems should reason about reused evidence**.
 
@@ -31,19 +31,10 @@ My path into ML runs through computational physics, time series, computer vision
 
 ## Tools I reach for
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D172A?style=for-the-badge&logo=python&logoColor=5EEAD4" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-0D172A?style=for-the-badge&logo=pytorch&logoColor=F97316" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-0D172A?style=for-the-badge&logo=huggingface&logoColor=FACC15" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-0D172A?style=for-the-badge&logo=scikitlearn&logoColor=60A5FA" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Linux-0D172A?style=for-the-badge&logo=linux&logoColor=E2E8F0" alt="Linux" />
-  <img src="https://img.shields.io/badge/LaTeX-0D172A?style=for-the-badge&logo=latex&logoColor=C084FC" alt="LaTeX" />
-</p>
+`Python` · `PyTorch` · `Transformers` · `scikit-learn` · `NumPy` · `pandas` · `pytest` · `Git` · `Linux` · `LaTeX`
 
-<sub>Also at home with NumPy, pandas, Transformers, pytest, Git, experiment design, and the occasional music-theory rabbit hole.</sub>
+Also at home with experiment design, research tooling, and the occasional music-theory rabbit hole.
 
 ---
 
-<p align="center">
-  <i>Physics taught me to look for invariants. Machine learning taught me how interesting the exceptions can be.</i>
-</p>
+*Physics taught me to look for invariants. Machine learning taught me how interesting the exceptions can be.*
