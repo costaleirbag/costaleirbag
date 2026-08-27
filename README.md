@@ -50,4 +50,6 @@ My path into ML runs through computational physics, time series, computer vision
 
 ---
 
-*Physics taught me to look for invariants. Machine learning taught me how interesting the exceptions can be.*
+> “To know ten thousand things, know one well.”
+>
+> — *Musashi*
